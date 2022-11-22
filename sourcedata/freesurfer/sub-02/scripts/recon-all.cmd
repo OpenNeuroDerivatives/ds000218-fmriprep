@@ -1,1 +1,1 @@
-../../../../.git/annex/objects/8G/pK/MD5E-s21515--f06079ede4e3b63509f84bd597290495.cmd/MD5E-s21515--f06079ede4e3b63509f84bd597290495.cmd
+/annex/objects/MD5E-s21515--f06079ede4e3b63509f84bd597290495.cmd
